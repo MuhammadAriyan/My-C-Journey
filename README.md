@@ -3,17 +3,12 @@
 
 C is a general-purpose programming language created in the early 1970s by Dennis Ritchie at Bell Labs.
 
-C is known for being:
-
-Fast and efficient
-
-Portable
-
-Close to computer hardware
-
-Widely used in systems programming
-
-A foundation for many modern programming languages
+### C is known for being:
+1. Fast and efficient
+2. Portable
+3. Close to computer hardware
+4. Widely used in systems programming
+5. A foundation for many modern programming languages
 
 C is commonly used to build operating systems, embedded systems, compilers, networking software, and other performance-critical applications.
 
@@ -40,7 +35,7 @@ Many programming concepts learned in C can also help you understand languages su
 Your First C Program
 
 Here is a simple C program:
-~
+```
 #include <stdio.h>
 
 int main(void)
@@ -49,4 +44,4 @@ int main(void)
 
     return 0;
 }
-~
+```
